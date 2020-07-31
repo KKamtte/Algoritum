@@ -23,8 +23,8 @@ public class borad_paging {
 		n = sc.nextInt();
 		
 		if( m%n == 0) {
-			System.out.println("총 페이지 수 : " + m/n);
+			System.out.println("총 페이지 수 : " + m/n); //페이지수와 게시물 수가 일치하는 경우
 		} else
-			System.out.println("총 페이지 수 : " + (m/n+1));
+			System.out.println("총 페이지 수 : " + (m/n+1)); //일치하지 않는 경우
 	}
 }
