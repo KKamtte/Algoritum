@@ -19,12 +19,19 @@ public class special_Sort {
 	
 	public void change() {
 		for(int i=1; i<list.size(); i++) {
-			if(list.get(i)<0) {
-				for(int j=(i-1); j>=0; j--) {
-					if(list.get(j)<0) {
-						list.add(j+1, list.get(i));
-						list.remove(i+1);
+			if(list.get(i)<0) { //음수일 경우
+				for(int j=(i-1); j>=0; j--) { //바로 직전 리스트부터 처음까지 조사
+					if(list.get(j)<0) { //리스트에 음수가 있는 경우
+						list.add(j+1, list.get(i)); //해당 리스트의 바로 뒤에 추가 
+													//[-1, 4, 3, -2, 2] -> [-1, -2, 1, 3, -2, 2]
+						list.remove(i+1); //기존 리스트 삭제 
+										  //[-1, -2, 1, 3, -2, 2] -> [-1, -2, 1, 3, 2]
 						break;
+					} else if(j==0) { //만약 0번까지 조사했는데 전부 양수일 경우
+						list.add(0,list.get(i)); //맨 처음에 음수 추가 
+												 //[5, 4, 3, -2, 2] -> [-2, 5, 4, 3, -2, 2]
+						list.remove(i+1); //기존 리스트 삭제
+										  //[-2, 5, 4, 3, -2, 2] -> [-2, 5, 4, 3, 2]
 					}
 				}
 			}
