@@ -21,50 +21,55 @@ public class Synapsoft_question {
 	ArrayList<String> list = new ArrayList<String>();
 	int kim = 0, lee = 0, leejaeyong=0;
 	
+	//이름에 쉼표를 없애고 리스트에 추가
 	public void list(String str) {
 		while(true) {
-			if(str.indexOf(",") != -1) {
-				result = str.substring(0,str.indexOf(","));
-				str = str.substring(str.indexOf(",")+1);
-				list.add(result);
+			if(str.indexOf(",") != -1) { //쉼표가 존재한다면
+				result = str.substring(0,str.indexOf(",")); //처음~쉼표전까지 result에 둠
+				str = str.substring(str.indexOf(",")+1); //쉼표이후~끝까지 다시 str에 저장
+				list.add(result); //리스트에 이름 하나 추가
 			} else {
-				list.add(str);
+				list.add(str); //마지막 남은 이름 리스트에 추가
 				break;
 			}
 		}
 	}
 	
+	//성이 '김'인사람과 '이'인 사람 그리고 '이재영'을 찾음
 	public void check_name() {
 		for(int i=0; i<list.size(); i++) {
-			if("김".equals(list.get(i).substring(0,1))) {
+			if("김".equals(list.get(i).substring(0,1))) { //성이 '김'인경우
 				kim++;
-			} else if("이재영".equals(list.get(i))) {
-				leejaeyong++;
-				lee++;
-			} else if("이".equals(list.get(i).substring(0,1))) {
+			} else if("이재영".equals(list.get(i))) { //이름이 '이재영' 일경우
+				leejaeyong++; //이재영추가
+				lee++; //성이 '이'인 사람 추가
+			} else if("이".equals(list.get(i).substring(0,1))) { //성이 '이'인경우
 				lee++;
 			}
 		}
 	}
+	
+	//중복 제거 
 	public void remove() {
 		for(int i=0; i<list.size()-1; i++) {
-			for(int j=(i+1); j<list.size(); j++) {
-				if(list.get(i).equals(list.get(j))) {
+			for(int j=(i+1); j<list.size(); j++) { //중첩 for문 돌림
+				if(list.get(i).equals(list.get(j))) { //리스트에서 중복되는 경우
 					//System.out.println(i+"번째의 "+list.get(i) + " 와" + j+"번째의 "+list.get(j)+" 가 중복되어 삭제함");
-					list.remove(j);
+					list.remove(j); //중복삭제
 				}
 			}
 		}
 	}
 	
+	//오름차순 정렬
 	public void change() {
 		for(int i=0; i<list.size()-1; i++) {
-			for(int j=(i+1); j<list.size(); j++) {
-				if(list.get(i).compareTo(list.get(j)) > 0) {
-					list.add(i,list.get(j));
-					list.add(j+1,list.get(i+1));
-					list.remove(i+1);
-					list.remove(j+1);
+			for(int j=(i+1); j<list.size(); j++) { //중첩 for문 돌림
+				if(list.get(i).compareTo(list.get(j)) > 0) { //이름 비교
+					list.add(i,list.get(j)); //이름 추가
+					list.add(j+1,list.get(i+1)); //이름 추가
+					list.remove(i+1); //삭제
+					list.remove(j+1); //삭제
 				}
 			}
 		}
