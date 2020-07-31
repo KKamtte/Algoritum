@@ -1,1 +1,3 @@
 # Algoritum
+
+study algorithm
