@@ -5,7 +5,7 @@ const rl = readline.createInterface({
   output: process.stdout,
 });
 
-rl.on('line', line => {
+rl.on('line', (line) => {
   const input = line;
 
   if (+input <= 100 && +input >= 90) {
