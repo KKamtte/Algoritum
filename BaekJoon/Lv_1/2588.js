@@ -8,8 +8,8 @@ const rl = readline.createInterface({
 let firstParam = '';
 let secondParam = '';
 
-rl.on('line', line1 => {
-  rl.on('line', line2 => {
+rl.on('line', (line1) => {
+  rl.on('line', (line2) => {
     firstParam = line1;
     secondParam = line2;
 

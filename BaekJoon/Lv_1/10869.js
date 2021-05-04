@@ -5,7 +5,7 @@ const rl = readline.createInterface({
   output: process.stdout,
 });
 
-rl.on('line', line => {
+rl.on('line', (line) => {
   const input = line.split(' ');
 
   console.log(Number(input[0]) + Number(input[1]));
