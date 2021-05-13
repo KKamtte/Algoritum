@@ -11,21 +11,14 @@ rl.on('line', (line) => {
   input.push(line);
   rl.close();
 }).on('close', () => {
-  let N = +input[0];
-  if (N < 10) {
-    N *= 10;
-  }
-  let x = N;
-  let count = 1;
+  let num = +input[0];
+  let sum = 0;
+  let count = 0;
   while (true) {
-    const y = Math.floor(x / 10);
-    const z = x % 10;
-    x = ((y + z) % 10) + z * 10;
-
-    if (N === x) {
-      break;
-    }
     count++;
+    sum = Math.floor(num / 10) + (num % 10);
+    num = (num % 10) * 10 + (sum % 10);
+    if (num === +input[0]) break;
   }
   console.log(count);
   process.exit();
