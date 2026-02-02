@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/[hw0_2] 집합 비교하기" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/[hw10_1] 그래프 구현" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/[hw3_1] 학생배열" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/[hw3_2] selection sort" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/[hw3_3] bubble sort" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/[hw4_4] 도형 배열" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/[hw4_5] merge sort" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/[hw4_6] heap sort" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/[hw5_1] 선택 알고리즘" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/[hw6_1] binary search tree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/[hw7_1] 학번 hash table" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/[hw8_1] 행렬 경로 문제" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
