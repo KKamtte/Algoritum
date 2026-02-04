@@ -39,9 +39,9 @@ jobs:
           if git status --porcelain | grep .; then
             git config --global user.name 'github-actions[bot]'
             git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-            git pull --rebase origin master
             git add .
             git commit -m "chore: move leetcode solution to leetcode dir"
+            git pull --rebase origin master
             git push
           else
             echo "No change to commit"
