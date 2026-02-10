@@ -25,6 +25,7 @@ study algorithm
 | ------- |
 | [0013-roman-to-integer](https://github.com/KKamtte/Algoritum/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/KKamtte/Algoritum/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/KKamtte/Algoritum/tree/master/0020-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KKamtte/Algoritum/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Trie
 |  |
@@ -33,6 +34,7 @@ study algorithm
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/KKamtte/Algoritum/tree/master/0020-valid-parentheses) |
 | [0735-asteroid-collision](https://github.com/KKamtte/Algoritum/tree/master/0735-asteroid-collision) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KKamtte/Algoritum/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Greedy
