@@ -45,4 +45,12 @@ study algorithm
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/KKamtte/Algoritum/tree/master/0735-asteroid-collision) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/KKamtte/Algoritum/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/KKamtte/Algoritum/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
