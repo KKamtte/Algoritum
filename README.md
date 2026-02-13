@@ -10,6 +10,7 @@ study algorithm
 | [0001-two-sum](https://github.com/KKamtte/Algoritum/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/KKamtte/Algoritum/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KKamtte/Algoritum/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/KKamtte/Algoritum/tree/master/0027-remove-element) |
 | [0735-asteroid-collision](https://github.com/KKamtte/Algoritum/tree/master/0735-asteroid-collision) |
 ## Hash Table
 |  |
@@ -58,4 +59,5 @@ study algorithm
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KKamtte/Algoritum/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/KKamtte/Algoritum/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
