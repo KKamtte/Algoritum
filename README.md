@@ -11,6 +11,7 @@ study algorithm
 | [0014-longest-common-prefix](https://github.com/KKamtte/Algoritum/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KKamtte/Algoritum/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/KKamtte/Algoritum/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/KKamtte/Algoritum/tree/master/0035-search-insert-position) |
 | [0735-asteroid-collision](https://github.com/KKamtte/Algoritum/tree/master/0735-asteroid-collision) |
 ## Hash Table
 |  |
@@ -77,6 +78,7 @@ study algorithm
 ## Binary Search Tree
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/KKamtte/Algoritum/tree/master/0035-search-insert-position) |
 | [0938-range-sum-of-bst](https://github.com/KKamtte/Algoritum/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
 |  |
