@@ -31,6 +31,7 @@ study algorithm
 | [0020-valid-parentheses](https://github.com/KKamtte/Algoritum/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KKamtte/Algoritum/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KKamtte/Algoritum/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/KKamtte/Algoritum/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Trie
 |  |
 | ------- |
@@ -41,6 +42,7 @@ study algorithm
 | [0020-valid-parentheses](https://github.com/KKamtte/Algoritum/tree/master/0020-valid-parentheses) |
 | [0735-asteroid-collision](https://github.com/KKamtte/Algoritum/tree/master/0735-asteroid-collision) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KKamtte/Algoritum/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/KKamtte/Algoritum/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Greedy
 |  |
 | ------- |
