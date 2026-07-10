@@ -9,6 +9,7 @@ study algorithm
 | ------- |
 | [0001-two-sum](https://github.com/KKamtte/Algoritum/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/KKamtte/Algoritum/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/KKamtte/Algoritum/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KKamtte/Algoritum/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/KKamtte/Algoritum/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/KKamtte/Algoritum/tree/master/0035-search-insert-position) |
@@ -66,6 +67,7 @@ study algorithm
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/KKamtte/Algoritum/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KKamtte/Algoritum/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/KKamtte/Algoritum/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KKamtte/Algoritum/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -90,4 +92,8 @@ study algorithm
 |  |
 | ------- |
 | [0938-range-sum-of-bst](https://github.com/KKamtte/Algoritum/tree/master/0938-range-sum-of-bst) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/KKamtte/Algoritum/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
