@@ -13,6 +13,7 @@ study algorithm
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KKamtte/Algoritum/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/KKamtte/Algoritum/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/KKamtte/Algoritum/tree/master/0035-search-insert-position) |
+| [0643-maximum-average-subarray-i](https://github.com/KKamtte/Algoritum/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/KKamtte/Algoritum/tree/master/0735-asteroid-collision) |
 ## Hash Table
 |  |
@@ -103,4 +104,8 @@ study algorithm
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/KKamtte/Algoritum/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/KKamtte/Algoritum/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
