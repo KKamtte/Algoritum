@@ -14,6 +14,7 @@ study algorithm
 | [0027-remove-element](https://github.com/KKamtte/Algoritum/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/KKamtte/Algoritum/tree/master/0035-search-insert-position) |
 | [0217-contains-duplicate](https://github.com/KKamtte/Algoritum/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/KKamtte/Algoritum/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/KKamtte/Algoritum/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/KKamtte/Algoritum/tree/master/0735-asteroid-collision) |
 ## Hash Table
@@ -22,6 +23,7 @@ study algorithm
 | [0001-two-sum](https://github.com/KKamtte/Algoritum/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/KKamtte/Algoritum/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/KKamtte/Algoritum/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/KKamtte/Algoritum/tree/master/0219-contains-duplicate-ii) |
 ## Math
 |  |
 | ------- |
@@ -110,5 +112,6 @@ study algorithm
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/KKamtte/Algoritum/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/KKamtte/Algoritum/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
