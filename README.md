@@ -13,6 +13,7 @@ study algorithm
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KKamtte/Algoritum/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/KKamtte/Algoritum/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/KKamtte/Algoritum/tree/master/0035-search-insert-position) |
+| [0217-contains-duplicate](https://github.com/KKamtte/Algoritum/tree/master/0217-contains-duplicate) |
 | [0643-maximum-average-subarray-i](https://github.com/KKamtte/Algoritum/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/KKamtte/Algoritum/tree/master/0735-asteroid-collision) |
 ## Hash Table
@@ -20,6 +21,7 @@ study algorithm
 | ------- |
 | [0001-two-sum](https://github.com/KKamtte/Algoritum/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/KKamtte/Algoritum/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/KKamtte/Algoritum/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
 | ------- |
@@ -100,6 +102,7 @@ study algorithm
 |  |
 | ------- |
 | [0015-3sum](https://github.com/KKamtte/Algoritum/tree/master/0015-3sum) |
+| [0217-contains-duplicate](https://github.com/KKamtte/Algoritum/tree/master/0217-contains-duplicate) |
 ## Monotonic Stack
 |  |
 | ------- |
